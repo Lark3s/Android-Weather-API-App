@@ -1,2 +1,2 @@
 # Android-Weather-API-App
-A basic app made for Android that gathers and displays data from a free weather report API.
+A basic Android app that gathers and displays data from a free weather report API.
